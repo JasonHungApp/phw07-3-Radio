@@ -1,13 +1,13 @@
 //
-//  DetailInfoViewController.swift
+//  FM913ViewController.swift
 //  phw07-3-Radio
 //
-//  Created by jasonhung on 2023/12/1.
+//  Created by jasonhung on 2023/12/2.
 //
 
 import UIKit
 
-class DetailInfoViewController: UIViewController {
+class FM913ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

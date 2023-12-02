@@ -1,13 +1,13 @@
 //
-//  PlayRadioViewController.swift
+//  FM100ViewController.swift
 //  phw07-3-Radio
 //
-//  Created by jasonhung on 2023/12/1.
+//  Created by jasonhung on 2023/12/2.
 //
 
 import UIKit
 
-class PlayRadioViewController: UIViewController {
+class FM100ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
